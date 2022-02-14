@@ -1,4 +1,4 @@
-module xmm
+module github.com/bigwhite/xmm
 
 go 1.12
 
